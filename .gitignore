@@ -1,0 +1,4 @@
+ll_env/
+Scripts/
+__pycache__/
+*.pyc
