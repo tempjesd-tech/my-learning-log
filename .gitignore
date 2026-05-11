@@ -1,4 +1,5 @@
 ll_env/
-Scripts/
 __pycache__/
 *.pyc
+db.sqlite3
+.env
